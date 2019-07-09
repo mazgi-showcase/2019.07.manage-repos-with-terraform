@@ -1,5 +1,7 @@
 # 2019.07.manage-repos-with-terraform
 
+Example repository for [mazgi.github.io/posts/2019.07/manage-multiple-github-repositories-with-terraform](https://mazgi.github.io/posts/2019.07/manage-multiple-github-repositories-with-terraform/)
+
 ## Recommends
 
 - [direnv](https://github.com/direnv/direnv)
